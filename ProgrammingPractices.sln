@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovingZerosToTheEnd", "Movi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovingZerosToTheEnd.UnitTests", "MovingZerosToTheEnd.UnitTests\MovingZerosToTheEnd.UnitTests.csproj", "{0A1B48CF-3DE8-4CBB-934F-5E1F836AB8F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceWithAlphabetPosition", "ReplaceWithAlphabetPosition\ReplaceWithAlphabetPosition.csproj", "{B2FA9F5A-69A9-4CAB-AA9A-CBC774C64032}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReplaceWithAlphabetPosition", "ReplaceWithAlphabetPosition\ReplaceWithAlphabetPosition.csproj", "{B2FA9F5A-69A9-4CAB-AA9A-CBC774C64032}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceWithAlphabetPosition.UnitTests", "ReplaceWithAlphabetPositionUnitTests\ReplaceWithAlphabetPosition.UnitTests.csproj", "{376637C5-26A5-4AD6-A75E-838C85AE3CC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReplaceWithAlphabetPosition.UnitTests", "ReplaceWithAlphabetPositionUnitTests\ReplaceWithAlphabetPosition.UnitTests.csproj", "{376637C5-26A5-4AD6-A75E-838C85AE3CC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowManyNumbers", "HowManyNumbers\HowManyNumbers.csproj", "{2D9153C2-7B22-484C-B254-57F19B740597}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowManyNumbers.UnitTests", "HowManyNumbers.UnitTests\HowManyNumbers.UnitTests.csproj", "{FC4E59DB-A887-4C56-AF70-6CE09A925338}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{376637C5-26A5-4AD6-A75E-838C85AE3CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{376637C5-26A5-4AD6-A75E-838C85AE3CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{376637C5-26A5-4AD6-A75E-838C85AE3CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D9153C2-7B22-484C-B254-57F19B740597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D9153C2-7B22-484C-B254-57F19B740597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D9153C2-7B22-484C-B254-57F19B740597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D9153C2-7B22-484C-B254-57F19B740597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC4E59DB-A887-4C56-AF70-6CE09A925338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC4E59DB-A887-4C56-AF70-6CE09A925338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC4E59DB-A887-4C56-AF70-6CE09A925338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC4E59DB-A887-4C56-AF70-6CE09A925338}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
